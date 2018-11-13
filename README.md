@@ -1,2 +1,1 @@
-# git-github
-This is for toterial sample
+This is for toterial sample of Git
