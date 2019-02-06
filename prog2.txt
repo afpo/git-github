@@ -1,0 +1,14 @@
+this is a text for commit with 2 files prog1 and prog2:
+this is a text for commit with 2 files prog1 and prog2:
+this is a text for commit with 2 files prog1 and prog2:
+this is a text for commit with 2 files prog1 and prog2:
+
+
+<!-- Input Title -->
+ <xed:bind xpath="def.title[@class='MCRMetaLangText']/title">		<!-- 2000 commit -->
+<div class="form-group {$xed-validation-marker}">
+ <label class="col-md-4 control-label" for="title">			<!-- 2000 commit -->
+  <xed:output i18n="editor.label.title" />
+ </label>
+ <div class="col-md-6">
+

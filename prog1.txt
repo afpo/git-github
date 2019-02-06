@@ -1,0 +1,20 @@
+this is a text for commit with 2 files prog1 and prog2:
+this is a text for commit with 2 files prog1 and prog2:
+this is a text for commit with 2 files prog1 and prog2:
+this is a text for commit with 2 files prog1 and prog2:
+
+
+  <div class="hidden_preselect pull-right" style="width:30%;margin-right: 17px" 	<!-- 195 commit -->
+data-preselect="{$matrikeltyp}" data-targetid="inputMatrikeltyp">	<!-- 195 commit -->
+  <select class="form-control" id="inputMatrikeltyp">		<!-- 195 commit -->
+<option value="0"><xed:output i18n="matrikel.search.select.choose" /></option>				<!-- 195 commit -->
+
+
+</div>
+<xed:validate display="here" required="true">
+<xed:output i18n="editor.validate.title" />
+</xed:validate></div> </xed:bind>
+<xed:bind xpath="def.creator[@class='MCRMetaLangText']">
+<div class="form-group">
+<label class="col-md-4 control-label" for="creator">
+ 
